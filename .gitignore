@@ -89,3 +89,4 @@ local.properties
 module-info.java
 .project
 .classpath
+.idea
